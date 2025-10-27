@@ -53,10 +53,10 @@ A live version of this prototype is hosted on Streamlit Community Cloud:
 ➡️ **(https://loyalty-app-jsbrvjuweapappenfpf2c4.streamlit.app/)**
 
 some data for testing - Customer View , Add Points (Purchase) , Redeem Reward , Customer Service.
-Emails:-john.doe@gmail.com
-        john.wick@gmail.com
-        john.wick@gmail.com
-Note:- Add Any Enter Order ID/Number it will work.
+Emails:-*john.doe@gmail.com
+        *john.wick@gmail.com
+        *john.wick@gmail.com
+*Note:- Add Any Enter Order ID/Number it will work.
 
 ## 6. Project Documentation
 
